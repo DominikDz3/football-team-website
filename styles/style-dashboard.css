@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+/* Body css */
+
+body {
+    font-family: 'League Gothic';
+    overflow-x: hidden;
+    background-image: url("../images/dashboard/background2.jpg");
+    background-repeat: no-repeat;
+}
+
+dl, ol, ul {
+    margin-top: revert;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Login card */
+
+.wrapper {
+    max-width: 960px;
+    height: 960px;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.login-card {
+    width: 500px;
+    height: 450px;
+    margin-top: 25%;
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 0px 14px -3px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 0px 0px 14px -3px rgba(0, 0, 0, 1);    
+    box-shadow: 0px 0px 14px -3px rgba(0, 0, 0, 1);
+    border: 1px solid rgb(184, 184, 184);
+    border-radius: 5px;
+}
+
+.logo {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.login-form h2 {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form input {
+    width: 250px;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 30px;
+    border: 3px solid #7e7e7e;
+    outline: 0;
+    transition: border 200ms ease-in-out;
+    transition: background-color 200ms ease-in-out;
+}
+
+.form input:focus {
+    border: 3px solid #424242;
+    background-color: #fff9a1;
+
+}
+
+.form button {
+    margin-top: 20px;;
+}
+
+.button {
+    font-size: 25px;
+    width: 100px;
+    border: 2px solid #868686;
+    transition: background-color 200ms linear;
+}
+
+.button:hover {
+    background-color: #3b3b3b;
+    color: #FFFFFF;
+    border-color: rgb(116, 116, 116);
+}
+
+.error {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+    color: #ff0000;
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+
