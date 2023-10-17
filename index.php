@@ -80,8 +80,8 @@
                 <div class="news-main-page">
                     <img src="./images/main-page/Lorem.png">
                     <div class="news-main-page-text">
-                        <a href="wiadmosci.php"><h4>LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM </h4></a>
-                        <a href="wiadmosci.php"><h6 class="mobile-news-header">LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM </h6></a>
+                        <a href="wiadmosci.php"><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4></a>
+                        <a href="wiadmosci.php"><h6 class="mobile-news-header">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h6></a>
                         <p>08.06.2022</p>
                     </div>
                 </div>
@@ -89,8 +89,8 @@
                 <div class="news-main-page">
                     <img src="./images/main-page/Lorem.png">
                     <div class="news-main-page-text">
-                        <a href="wiadmosci.php"><h4>LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM </h4></a>
-                        <a href="wiadmosci.php"><h6 class="mobile-news-header">LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM </h6></a>
+                        <a href="wiadmosci.php"><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h4></a>
+                        <a href="wiadmosci.php"><h6 class="mobile-news-header">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </h6></a>
                         <p>08.06.2022</p>
                     </div>
                 </div>
@@ -98,8 +98,8 @@
                 <div class="news-main-page">
                     <img src="./images/main-page/Lorem.png">
                     <div class="news-main-page-text">
-                        <a href="wiadmosci.php"><h4>LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM </h4></a>
-                        <a href="wiadmosci.php"><h6 class="mobile-news-header">LOREM IPSOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM LOREM IPSUM IPSUM</h6></a>
+                        <a href="wiadmosci.php"><h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h4></a>
+                        <a href="wiadmosci.php"><h6 class="mobile-news-header">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</h6></a>
                         <p>08.06.2022</p>
                     </div>
                 </div>
@@ -116,43 +116,43 @@
                 <div class="carousel-inner">
                     <div class="carousel-item active sponsorship-block">
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/lasy-panstwowe.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/sarzyna-chemical.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/elektrocieplownia-ns1.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
 
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/mirandzo-garage.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                     </div>
                     <div class="carousel-item sponsorship-block">
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/betmar.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/gl-brzoza.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/budmet.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
 
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/max-elektro.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                     </div>
                     <div class="carousel-item sponsorship-block">
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/babis.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/salon-fryzjerski.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                         <div class="sponsorship-item">
-                            <img src="./images/main-page/bud-rem.png">
+                            <img src="./images/main-page/sponsorship.png">
                         </div>
                     </div>
                 </div>
